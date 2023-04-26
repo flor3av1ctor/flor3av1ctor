@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flor3av1ctor
 - 👀 I’m interested in frontend delevoping
-- 🌱 I’m currently learning Game Dev in Unity ( Victor vs Unity)
+- 🌱 I’m currently learning HTML, CSS amd JS
 
 <!---
 flor3av1ctor/flor3av1ctor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
